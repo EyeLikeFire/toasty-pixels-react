@@ -11,6 +11,7 @@ class App extends Component {
           <p>
             Toasty Pixels react app
           </p>
+          <h1>Is this visible?</h1>
           <a
             className="App-link"
             href="https://reactjs.org"
