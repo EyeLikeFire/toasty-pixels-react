@@ -1,7 +1,15 @@
 import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
 import logo from './logo.png';
 import './App.css';
 
+class test extends Component {
+  render(){
+    return (
+      <h1>Basic</h1>
+    );
+  }
+}
 class App extends Component {
   render() {
     return (
@@ -26,8 +34,9 @@ class App extends Component {
   }
 }
 
-//export default App;
+export default test;
 
 ReactDOM.render(
   <App />,
+  document.getElementById('root')
 );
