@@ -17,7 +17,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Toasty Pixels react app
+            Toasty Pixels react app 
           </p>
           <h1>This is the text I edit to make sure I'm looking at my current changes ;) </h1>
           <a
