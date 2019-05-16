@@ -1,3 +1,28 @@
+
+
+### Features
+
+ 
+Create Art:
+Users will be able to creat pixel art. User will choose a specific palette and will be able to use addative, subtractive or opaque light.
+
+View Art:
+Users will be able to browse popular art or new art. 
+
+User Login:
+Users will be able to create accounts and log in to the application. Each user will have a profile page. Users who are logged in can save/publish thier art to the app.
+
+Interact with Art.
+The user will be able to interact with the art leaving comments and or reactions. Only users who are logged into the app may interact with the art posts.
+
+
+### Technologies
+- JavaScript
+- React.JS
+- Vanilla CSS
+- HTML
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
